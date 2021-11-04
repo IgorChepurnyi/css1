@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    }
+ p {
+    font-size: large;
+    padding: 10 px;
+    text-align: justify;
+  }
+div {
+    box-sizing: border-box;
+    width: 1000px;
+    border: solid #1f1f20 1px;
+    padding: 30px;
+    margin: 23px;
+  }
+a {
+    float: right;
+    text-decoration:none;
+    font-size: large;
+    }
